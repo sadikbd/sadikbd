@@ -1,6 +1,5 @@
-### Hi there 👋
-
-**sadikbd/sadikbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Rashidul Hasan Sadik 👋
+#I am a Front-End Developer
 
 Here are some ideas to get you started:
 
