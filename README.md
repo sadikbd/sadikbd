@@ -7,4 +7,4 @@ I’m a Front End Web developer who is passionate about making error-free websit
 - 🌱 I’m currently learning JavaScript.
 - 🤔 I'm looking for help with Javascript.
 - 💬 Ask me about anythings.
-- 📫 How to reach me: +8801842441714.
+- 📫 How to reach me: sadikcsbd@gmail.com, +8801842441714.
